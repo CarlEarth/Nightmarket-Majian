@@ -1,4 +1,4 @@
-# nightmarket_majian
+# Nightmarket-Majian
 This is a easy program which can calculate the probability you can win in the game.
 You can set the parameter in the code.
 And do:
