@@ -23,12 +23,12 @@ import numpy as np
 # Rule
 # Majian-Bingo GAME
 # There are 36 patterns on the table.
-# Randomly get the 15 one and do the bingo game.
+# Randomly get the 15 ones and do the bingo game.
 
 box,row,column,cross1,cross2=[],[],[],[],[]
 # box : save the data in all test
-# row : save the data in the row
-# column : save the data in all test
+# row : save the data in the rows
+# column : save the data in the columns
 # cross1 : means the line (1,8,15,22,29,36)
 # cross2 : means the line (6,11,16,21,26,31)
 f=[0,0,0,0,0,0]
